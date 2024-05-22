@@ -1,2 +1,2 @@
-# web.cx.giscus
-web.cx留言板存储器
+# rocco.blog.giscus
+rocco.blog留言板存储器
